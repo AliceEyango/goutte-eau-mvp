@@ -1,0 +1,16 @@
+{
+  "exactitude": 0.5874,
+  "precision": 0.4144,
+  "rappel": 0.625,
+  "f1_score": 0.4983,
+  "auc_roc": 0.6384,
+  "brier_score": 0.2439,
+  "nb_observations_total": 1827,
+  "nb_observations_test": 366,
+  "variables": [
+    "jour_annee_sin",
+    "jour_annee_cos"
+  ],
+  "station_id": "07156",
+  "region": "Ile-de-France"
+}

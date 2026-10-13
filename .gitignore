@@ -1,9 +1,10 @@
 __pycache__/
-*.pyc
+*.py[cod]
 .venv/
 venv/
-data/*.db
-models/*.joblib
-.DS_Store
-*.egg-info/
+.env
+.idea/
+*.iml
 .pytest_cache/
+
+data/goutte_eau.db
